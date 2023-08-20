@@ -2,7 +2,7 @@
   "name": "01-project-dice",
   "version": "1.0.0",
   "description": "my first web3 project",
-  "homepage": "https://cryptoretard25.github.io/react04-todo-app",
+  "homepage": "https://cryptoretard25.github.io/web3-1-dice",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -13,6 +13,10 @@
     "watch": "webpack --watch",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptoretard25/web3-1-dice.git"
   },
   "author": "",
   "license": "ISC",
